@@ -14,7 +14,7 @@
 </p>
 
 
-**DeviceUIView+Inspectable** is one of the solutions to meet the design requirements depending on different screen types. It can be any `@IBDesignable` `UIVIew` class with `@IBInspectable` property to be able to set under the Attributes inspector. Please, check [Medium](https://medium.com/@mikhailpanfilov) post with full description👏
+**DeviceUIView+Inspectable** is one of the solutions to meet the design requirements depending on different screen types. It can be any `@IBDesignable` `UIVIew` class with `@IBInspectable` property to be able to set under the Attributes inspector. Please, check [Medium](https://medium.com/@mikhailpanfilov/devicetype-deviceconstraint-swift-5-f5a01e97bc36) post with full description👏
 
 
 ### 📝 Contents
